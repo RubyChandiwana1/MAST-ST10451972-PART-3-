@@ -1,5 +1,3 @@
-https://youtu.be/Xqtf9zDg768
-https://github.com/RubyChandiwana1/st10451972_Mast_part2.git
 
 # Amagwinya Scones - Menu Management App
 1. *Menu Item Management*
